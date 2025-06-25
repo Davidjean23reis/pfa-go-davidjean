@@ -7,11 +7,11 @@ import (
 	"net/http"
 	"sync"
 	"time"
-
-	"github.com/devfullcycle/pfa-go/internal/order/infra/database"
-	"github.com/devfullcycle/pfa-go/internal/order/usecase"
-	"github.com/devfullcycle/pfa-go/pkg/rabbitmq"
-	amqp "github.com/rabbitmq/amqp091-go"
+	
+        "github.com/Davidjean23reis/pfa-go-davidjean/internal/order/infra/database"
+        "github.com/Davidjean23reis/pfa-go-davidjean/internal/order/usecase"
+        "github.com/Davidjean23reis/pfa-go-davidjean/pkg/rabbitmq"
+         amqp "github.com/rabbitmq/amqp091-go"
 )
 
 func main() {
