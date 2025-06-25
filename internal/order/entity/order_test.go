@@ -3,7 +3,7 @@ package entity_test
 import (
 	"testing"
 
-	"github.com/devfullcycle/pfa-go/internal/order/entity"
+	"github.com/Davidjean23reis/pfa-go-davidjean/internal/order/entity"
 	"github.com/stretchr/testify/assert"
 )
 

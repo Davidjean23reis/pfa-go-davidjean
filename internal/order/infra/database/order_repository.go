@@ -3,7 +3,7 @@ package database
 import (
 	"database/sql"
 
-	"github.com/devfullcycle/pfa-go/internal/order/entity"
+	"github.com/Davidjean23reis/pfa-go-davidjean/internal/order/entity"
 	_ "github.com/go-sql-driver/mysql"
 )
 
